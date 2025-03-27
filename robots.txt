@@ -1,2 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
 User-agent: *
-Disallow:
+Allow: /
+
+Sitemap: https://sakurag4cor.github.io/BERITA-TERKINI-PAK-MUKHLIS-MENDAPATKAN-SCATTER-HITAM-DI-PERMAINAN-MAHJONG-2025/sitemap.xml
